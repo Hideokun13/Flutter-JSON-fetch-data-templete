@@ -1,0 +1,103 @@
+{
+    "course": [
+        {
+            "id": 1,
+            "courseID": "1001",
+            "courseName": "Arduino Lab 101",
+            "courseInstructor": "Peerawit Vongsinpratueng",
+            "courseData": [
+                {
+                    "videoID": "0001",
+                    "videoName": "Arduino Lab 1 part 1",
+                    "videoURL": "https://youtu.be/1eyJgEPp3NI"
+                },
+                {
+                    "videoID": "0002",
+                    "videoName": "Arduino Lab 1 part 2",
+                    "videoURL": "https://youtu.be/-svxS9WA4Js"
+                },
+                {
+                    "videoID": "0003",
+                    "videoName": "Arduino Lab 1 assignment",
+                    "videoURL": "https://youtu.be/EEU0BrmAyfc"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "courseID": "1002",
+            "courseName": "Flutter 101",
+            "courseInstructor": "Peerawit Vongsinpratueng",
+            "courseData": [
+                {
+                    "videoID": "0001",
+                    "videoName": "Arduino Lab 1 part 1",
+                    "videoURL": "https://youtu.be/1eyJgEPp3NI"
+                },
+                {
+                    "videoID": "0002",
+                    "videoName": "Arduino Lab 1 part 2",
+                    "videoURL": "https://youtu.be/-svxS9WA4Js"
+                },
+                {
+                    "videoID": "0003",
+                    "videoName": "Arduino Lab 1 assignment",
+                    "videoURL": "https://youtu.be/EEU0BrmAyfc"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "courseID": "1003",
+            "courseName": "HTML 101",
+            "courseInstructor": "Peerawit Vongsinpratueng",
+            "courseData": [
+                {
+                    "videoID": "0001",
+                    "videoName": "Arduino Lab 1 part 1",
+                    "videoURL": "https://youtu.be/1eyJgEPp3NI"
+                },
+                {
+                    "videoID": "0002",
+                    "videoName": "Arduino Lab 1 part 2",
+                    "videoURL": "https://youtu.be/-svxS9WA4Js"
+                },
+                {
+                    "videoID": "0003",
+                    "videoName": "Arduino Lab 1 assignment",
+                    "videoURL": "https://youtu.be/EEU0BrmAyfc"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "courseID": "1004",
+            "courseName": "Javascript 101",
+            "courseInstructor": "Peerawit Vongsinpratueng",
+            "courseData": [
+                {
+                    "videoID": "0001",
+                    "videoName": "Arduino Lab 1 part 1",
+                    "videoURL": "https://youtu.be/1eyJgEPp3NI"
+                },
+                {
+                    "videoID": "0002",
+                    "videoName": "Arduino Lab 1 part 2",
+                    "videoURL": "https://youtu.be/-svxS9WA4Js"
+                },
+                {
+                    "videoID": "0003",
+                    "videoName": "Arduino Lab 1 assignment",
+                    "videoURL": "https://youtu.be/EEU0BrmAyfc"
+                }
+            ]
+        }
+    ],
+    "author": [
+        {
+            "id": 1,
+            "authorID": 1,
+            "authorName": "Peerawit Vongsinpratueng"
+        }
+    ]
+}
